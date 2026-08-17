@@ -15,7 +15,7 @@ export const Route = createFileRoute("/")({
       { property: "og:title", content: "Imara Africa — Building a Stronger Africa" },
       {
         property: "og:description",
-        content: "Ideas. Innovation. Impact. Youth-led innovation for African challenges.",
+        content: "Imara Africa is a youth-led innovation organization creating practical solutions to African challenges through technology, creativity and entrepreneurship.",
       },
     ],
   }),

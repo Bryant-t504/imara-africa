@@ -83,13 +83,17 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       {
         name: "description",
         content:
-          "Imara Africa is a youth-led innovation organization creating practical solutions to African challenges.",
+          "Imara Africa is a youth-led innovation organization creating practical solutions to African challenges through technology, creativity and entrepreneurship.",
       },
       { name: "author", content: "Imara Africa" },
       { property: "og:title", content: "Imara Africa — Building a Stronger Africa" },
-      { property: "og:description", content: "Ideas. Innovation. Impact." },
+      { property: "og:description", content: "Imara Africa is a youth-led innovation organization creating practical solutions to African challenges through technology, creativity and entrepreneurship." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:title", content: "Imara Africa — Building a Stronger Africa" },
+      { name: "twitter:description", content: "Imara Africa is a youth-led innovation organization creating practical solutions to African challenges through technology, creativity and entrepreneurship." },
+      { property: "og:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/80468cc6-b9f7-44f9-8386-2ff6a690830b" },
+      { name: "twitter:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/80468cc6-b9f7-44f9-8386-2ff6a690830b" },
     ],
     links: [
       {
