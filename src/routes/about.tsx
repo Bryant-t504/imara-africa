@@ -26,7 +26,7 @@ function About() {
       <PageHeader
         eyebrow="About us"
         title="A youth-led organization turning ideas into solutions"
-        intro="Imara Africa was founded to give young people a place to build. We work on real African challenges using technology, creativity, entrepreneurship and community collaboration."
+        intro="Novex Africa was founded to give young people a place to build. We work on real African challenges using technology, creativity, entrepreneurship and community collaboration."
       />
 
       <section className="mx-auto max-w-6xl px-5 py-16">
